@@ -1,2 +1,8 @@
 This is my first draft on the planets.
+Author: D. Pont
+Date: 25/11/2016
+Title: Men are from Mars.
 Now adding some more content to the file.
+At first Mars was fun.
+
+References: <bib/references.txt>
